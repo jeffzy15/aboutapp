@@ -13,7 +13,7 @@ struct ContentView: View {
             TabView{
                 P1View()
                     .tabItem {
-                        Label("Person 1", systemImage: "person.fill")
+                        Label("Jeffrey", systemImage: "person.fill")
                     }
                 P2View()
                     .tabItem {
@@ -21,7 +21,7 @@ struct ContentView: View {
                     }
                 P3View()
                     .tabItem {
-                        Label("Person 3", systemImage: "person.fill")
+                        Label("Qi An", systemImage: "person.fill")
                     }
             }
             .ignoresSafeArea([.all])
