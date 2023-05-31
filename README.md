@@ -1,4 +1,4 @@
 # GithubProject
-Welcome!
+Welcome to our Github project!
 
-By Ethan, Qi An and Jeffrey (Admiralty)
+Made By: Ethan, Qi An and Jeffrey (Admiralty)
