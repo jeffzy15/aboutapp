@@ -1,2 +1,2 @@
-# githubProject
-About app
+# GithubProject
+Welcome!
