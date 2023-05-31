@@ -24,8 +24,8 @@ struct ContentView: View {
                         Label("Person 3", systemImage: "person.fill")
                     }
             }
+            .ignoresSafeArea([.all])
         }
-        .padding()
     }
 }
 
