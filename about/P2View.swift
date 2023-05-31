@@ -5,7 +5,7 @@ struct P2View: View {
     @State private var index = 0
     @State private var player: AVAudioPlayer?
     @State private var makespring = true
-    var body: some View {
+    var body: some View { 
         ZStack {
             LinearGradient(
                 gradient: Gradient(colors: [.black]),
