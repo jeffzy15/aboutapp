@@ -17,7 +17,7 @@ struct ContentView: View {
                     }
                 P2View()
                     .tabItem {
-                        Label("Person 2", systemImage: "person.fill")
+                        Label("Ethan", systemImage: "person.fill")
                     }
                 P3View()
                     .tabItem {
