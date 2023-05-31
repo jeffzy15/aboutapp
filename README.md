@@ -1,4 +1,6 @@
-# GithubProject
-Welcome to our Github project!
+# About us
+Welcome to our about page! Here, we will share a bit about ourselves. Look out for hidden easter eggs 👀!
 
-Made By: Ethan, Qi An and Jeffrey (Admiralty)
+A Joint Effort By: Ethan, Qi An and Jeffrey (Admiralty)
+
+But it would not be possible without you, The user! Without further ado lets get started!
