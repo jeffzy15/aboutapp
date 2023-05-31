@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AABE063E2A27258200241092 /* hehe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AABE063D2A27258200241092 /* hehe.mp3 */; };
+		AAC7C1CC2A2720CE00FEDE9A /* lmao.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AAC7C1CB2A2720CE00FEDE9A /* lmao.jpeg */; };
 		D9102DE52A2715C3005C3FBE /* aboutApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9102DE42A2715C3005C3FBE /* aboutApp.swift */; };
 		D9102DE72A2715C3005C3FBE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9102DE62A2715C3005C3FBE /* ContentView.swift */; };
 		D9102DE92A2715C4005C3FBE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9102DE82A2715C4005C3FBE /* Assets.xcassets */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AABE063D2A27258200241092 /* hehe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = hehe.mp3; path = ../../../hehe.mp3; sourceTree = "<group>"; };
+		AAC7C1CB2A2720CE00FEDE9A /* lmao.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lmao.jpeg; path = ../../lmao.jpeg; sourceTree = "<group>"; };
 		D9102DE12A2715C3005C3FBE /* about.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = about.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9102DE42A2715C3005C3FBE /* aboutApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aboutApp.swift; sourceTree = "<group>"; };
 		D9102DE62A2715C3005C3FBE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +66,7 @@
 				D9102DF22A271637005C3FBE /* P1View.swift */,
 				D9102DF42A271643005C3FBE /* P2View.swift */,
 				D9102DF62A27164D005C3FBE /* P3View.swift */,
+				AAC7C1CB2A2720CE00FEDE9A /* lmao.jpeg */,
 				D9102DE82A2715C4005C3FBE /* Assets.xcassets */,
 				D9102DEA2A2715C4005C3FBE /* Preview Content */,
 			);
@@ -71,6 +76,7 @@
 		D9102DEA2A2715C4005C3FBE /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				AABE063D2A27258200241092 /* hehe.mp3 */,
 				D9102DEB2A2715C4005C3FBE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -134,7 +140,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AABE063E2A27258200241092 /* hehe.mp3 in Resources */,
 				D9102DEC2A2715C4005C3FBE /* Preview Assets.xcassets in Resources */,
+				AAC7C1CC2A2720CE00FEDE9A /* lmao.jpeg in Resources */,
 				D9102DE92A2715C4005C3FBE /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
