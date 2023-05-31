@@ -13,11 +13,11 @@ struct ContentView: View {
             TabView{
                 P1View()
                     .tabItem {
-                        Label("Jeffrey", systemImage: "person.fill")
+                        Label("Jeffrey", systemImage: "square.and.pencil")
                     }
                 P2View()
                     .tabItem {
-                        Label("Ethan", systemImage: "person.fill")
+                        Label("Ethan", systemImage: "magnifyingglass")
                     }
                 P3View()
                     .tabItem {
