@@ -5,7 +5,8 @@ struct P2View: View {
     @State private var index = 0
     @State private var player: AVAudioPlayer?
     @State private var makespring = true
-    var body: some View { 
+    @State private var troll = "lmao"
+    var body: some View {
         ZStack {
             LinearGradient(
                 gradient: Gradient(colors: [.black]),
@@ -29,6 +30,7 @@ struct P2View: View {
                             withAnimation {
                                 index += 100
                                 playSoundtrack()
+                                troll = "SURPRISE"
                             }
                         }
                     }, label: {
@@ -42,7 +44,7 @@ struct P2View: View {
                 }
                 .padding(.top, 20)
                 if makespring {
-                    Image("lmao")
+                    Image(troll)
                         .resizable()
                         .aspectRatio(contentMode: .fit)
                         .cornerRadius(10)

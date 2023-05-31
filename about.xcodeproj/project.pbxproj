@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		AABE063D2A27258200241092 /* hehe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = hehe.mp3; path = ../../../hehe.mp3; sourceTree = "<group>"; };
+		AABE063F2A27288000241092 /* SURPRISE.webp */ = {isa = PBXFileReference; lastKnownFileType = file; name = SURPRISE.webp; path = ../../../SURPRISE.webp; sourceTree = "<group>"; };
 		AAC7C1CB2A2720CE00FEDE9A /* lmao.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lmao.jpeg; path = ../../lmao.jpeg; sourceTree = "<group>"; };
 		D9102DE12A2715C3005C3FBE /* about.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = about.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9102DE42A2715C3005C3FBE /* aboutApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aboutApp.swift; sourceTree = "<group>"; };
@@ -76,6 +77,7 @@
 		D9102DEA2A2715C4005C3FBE /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				AABE063F2A27288000241092 /* SURPRISE.webp */,
 				AABE063D2A27258200241092 /* hehe.mp3 */,
 				D9102DEB2A2715C4005C3FBE /* Preview Assets.xcassets */,
 			);
